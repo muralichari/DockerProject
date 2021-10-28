@@ -1,0 +1,42 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Mi Smart Band",
+            "price": 2498,
+            "imgName": "img1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Apple iPad Mini",
+            "price": 31900,
+            "imgName": "img2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Dell G3 3500 Gaming Laptop",
+            "price": 45300,
+            "imgName": "img3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Canon EOS 1500D",
+            "price": 24990,
+            "imgName": "img4.jpg"
+        }
+    ],
+    "merch": [
+        {
+            "id": 5,
+            "name": "OnePlus Bullets Wireless",
+            "price": 1999,
+            "imgName": "img5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Samsung Galaxy M51 Phone Case",
+            "price": 300,
+            "imgName": "img6.jpg"
+        }
+    ]
+}
