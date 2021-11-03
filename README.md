@@ -1,4 +1,4 @@
-# NodeJS-Shopping-Cart
+# Shopping-Cart
 Checkout API into a Node.js application
 
 ## Installation
