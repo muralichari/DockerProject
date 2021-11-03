@@ -2,41 +2,41 @@
     "items": [
         {
             "id": 1,
-            "name": "Mi Smart Band",
-            "price": 2498,
-            "imgName": "img1.jpg"
+            "name": "Husky Mechanics Toolset 270 Piece",
+            "price": 149.99,
+            "imgName": "husky.png"
         },
         {
             "id": 2,
-            "name": "Apple iPad Mini",
-            "price": 31900,
-            "imgName": "img2.jpg"
+            "name": "Dewalt Circular Saw",
+            "price": 7500,
+            "imgName": "dewalt.png"
         },
         {
             "id": 3,
-            "name": "Dell G3 3500 Gaming Laptop",
-            "price": 45300,
-            "imgName": "img3.jpg"
+            "name": "Crea Pull Out Kitchen Sink Faucet",
+            "price": 4300,
+            "imgName": "crea.png"
         },
         {
             "id": 4,
-            "name": "Canon EOS 1500D",
+            "name": "Google Nest Thermostat",
             "price": 24990,
-            "imgName": "img4.jpg"
+            "imgName": "nest.png"
         }
     ],
     "merch": [
         {
             "id": 5,
-            "name": "OnePlus Bullets Wireless",
+            "name": "Bridge Faucet with Sprayer",
             "price": 1999,
-            "imgName": "img5.jpg"
+            "imgName": "bridge_faucet.png"
         },
         {
             "id": 6,
-            "name": "Samsung Galaxy M51 Phone Case",
+            "name": "Asian Paint (White) 4L",
             "price": 300,
-            "imgName": "img6.jpg"
+            "imgName": "asian_paints.png"
         }
     ]
 }
