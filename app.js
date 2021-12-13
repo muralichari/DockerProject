@@ -5,6 +5,7 @@ if(process.env.NODE_ENV !== 'production'){
 
 const stripeSecretKey = process.env.STRIPE_SECRET_KEY;
 const stripePublicKey = process.env.STRIPE_PUBLIC_KEY;
+// const statusMessage   = process.env.INITIAL_STATUS_MESSAGE || "Welcome to HomeJoy";
 
 const express = require('express');
 const fs = require('fs');
@@ -16,7 +17,17 @@ app.set('view engine', 'ejs');
 app.use(express.json());
 app.use(express.static('public'));
 
+app.listen(3000, function () {
+    console.log('HomeJoy app listening on port 5000!');
+  });
+
+// app.get('/welcome', function(req, res) {
+//     console.log('Printing status message');
+//     res.send(statusMessage);
+// });
+
 app.get('/store', function(req,res){
+    console.log('Accessing store page...');
     fs.readFile('items.json', function(error, data){
         if(error){
             res.status(500).end();

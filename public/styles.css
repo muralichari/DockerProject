@@ -59,6 +59,7 @@ html, body {
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .band-name {
@@ -72,6 +73,7 @@ html, body {
 
 .band-name-large {
     font-size: 8em;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .content-section {
@@ -100,13 +102,13 @@ html, body {
 }
 
 .main-footer {
-    background-color: #56CCF2; 
+    background-color: #545b5e; 
     color: whitesmoke;
     padding: .25em 0;
 }
 
 .main-footer-1 {
-    background-color: #56CCF2; 
+    background-color: #545b5e; 
     color: whitesmoke;
     /* padding: .25em 0; */
     height: 80px;
@@ -175,7 +177,7 @@ html, body {
 
 .btn-primary {
     color: white;
-    background-color: #56CCF2;
+    background-color: #545b5e;
     border: none;
     border-radius: .3em;
     font-weight: bold;
