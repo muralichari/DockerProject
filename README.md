@@ -5,11 +5,12 @@ Checkout API into a Node.js application
 
 ### To run on local machine
 
-1. clone project with command `git clone https://github.com/manning-liveproject/containerizing-the-application-lp-author.git`
+1. Do `git clone` your custom repository provided by Manning
 2. Install dependencies: `npm install`
 3. Start application: `node app.js`
 4. Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) or http://localhost:5000 in your browser for web page
 5. Visit [http://localhost/store](http://localhost/store) in your browser for store page
+6. Stop the application using `Ctrl + C` 
 
 ### To run as Docker container
 
