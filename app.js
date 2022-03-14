@@ -17,7 +17,7 @@ app.set('view engine', 'ejs');
 app.use(express.json());
 app.use(express.static('public'));
 
-app.listen(3000, function () {
+app.listen(5000, function () {
     console.log('HomeJoy app listening on port 5000!');
   });
 
