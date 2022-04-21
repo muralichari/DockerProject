@@ -1,3 +1,5 @@
 node_modules
 .DS_Store
 Docker_Installation_Steps.docx
+Dockerfile
+.dockerignore
