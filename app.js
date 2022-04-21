@@ -5,7 +5,7 @@ if(process.env.NODE_ENV !== 'production'){
 
 const stripeSecretKey = process.env.STRIPE_SECRET_KEY;
 const stripePublicKey = process.env.STRIPE_PUBLIC_KEY;
-// const statusMessage   = process.env.INITIAL_STATUS_MESSAGE || "Welcome to HomeJoy";
+// const statusMessage   = process.env.INITIAL_STATUS_MESSAGE || "Welcome to BuildYourHome";
 
 const express = require('express');
 const fs = require('fs');
@@ -69,5 +69,5 @@ app.post('/purchase', function(req,res){
 // app.listen(5000);
 
 app.listen(5000, function () {
-    console.log('HomeJoy app listening on port 5000!');
+    console.log('BuildYourHome app listening on port 5000!');
   });
