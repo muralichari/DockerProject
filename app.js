@@ -66,8 +66,14 @@ app.post('/purchase', function(req,res){
     });
 });
 
+<<<<<<< Updated upstream
 // app.listen(5000);
 
 app.listen(5000, function () {
     console.log('BuildYourHome app listening on port 5000!');
+=======
+// app.listen(5000)
+app.listen(5000, function () {
+    console.log('HomeJoy app listening on port 5000!');
+>>>>>>> Stashed changes
   });
