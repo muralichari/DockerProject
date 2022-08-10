@@ -1,5 +1,5 @@
 FROM node:14-alpine
   WORKDIR /web-store
-  COPY app.js .
-  COPY package.json .
+  COPY . .
+  RUN npm install
   CMD ["node","/web-store/app.js"]
