@@ -1,3 +1,15 @@
+## Manning liveProject [Getting Started with Kubernetes](https://www.manning.com/liveprojectseries/getting-started-with-kubernetes-ser)
+## Project 1 [Containerize an Application](https://www.manning.com/liveproject/containerize-an-application)
+
+This liveProject is divided into 3 milestones.
+
+1. Construct a Dockerfile - [Submission for milestone 1](https://github.com/plu5g00d/manning-containerize-an-application-lp)
+
+2. Build an Image from a Dockerfile - [Submission for milestone 2](https://github.com/plu5g00d/manning-containerize-an-application-lp/tree/main/milestone_2)
+
+3. Push an Image to the Registry - [Submission for milestone 3](https://github.com/plu5g00d/manning-containerize-an-application-lp/tree/main/milestone_3)
+
+
 # Shopping-Cart
 Checkout API into a Node.js application
 
